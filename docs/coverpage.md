@@ -1,8 +1,8 @@
-![logo](https://res.cloudinary.com/abellion/image/upload/v1535202916/icon_ofrkgv.png)
+![logo](Hands.png)
 
-# Xenus
+# RISE UP
 
-> An elegant MongoDB ODM for PHP
+> Let's join hands for a better society
 
-[GitHub](https://github.com/abellion/xenus/)
+
 [Getting Started](#getting-started)
